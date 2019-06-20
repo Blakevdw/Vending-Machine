@@ -1,0 +1,7 @@
+C:\Users\102535342\OneDrive - Swinburne University\Apply Introductory Programming Techniques\Challenge 2\VendingMachine\bin\Debug\VendingMachine.exe.config
+C:\Users\102535342\OneDrive - Swinburne University\Apply Introductory Programming Techniques\Challenge 2\VendingMachine\bin\Debug\VendingMachine.exe
+C:\Users\102535342\OneDrive - Swinburne University\Apply Introductory Programming Techniques\Challenge 2\VendingMachine\bin\Debug\VendingMachine.pdb
+C:\Users\102535342\OneDrive - Swinburne University\Apply Introductory Programming Techniques\Challenge 2\VendingMachine\obj\Debug\VendingMachine.csprojAssemblyReference.cache
+C:\Users\102535342\OneDrive - Swinburne University\Apply Introductory Programming Techniques\Challenge 2\VendingMachine\obj\Debug\VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\102535342\OneDrive - Swinburne University\Apply Introductory Programming Techniques\Challenge 2\VendingMachine\obj\Debug\VendingMachine.exe
+C:\Users\102535342\OneDrive - Swinburne University\Apply Introductory Programming Techniques\Challenge 2\VendingMachine\obj\Debug\VendingMachine.pdb
